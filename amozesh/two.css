@@ -1,0 +1,64 @@
+.hgf {
+    background-color: gray;
+}
+
+.img {
+    width: 1100px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.img img {
+    width: 100%;
+}
+
+.img p {
+    position: absolute;
+    top: 490px;
+    right: 25px;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: b nazanin;
+    color: red;
+
+}
+
+.img-all  {
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.img-all img {
+    width: 100%;
+}
+
+.img-all h1 {
+    position: absolute;
+    top: 25px;
+    right: 900px;
+    font-size: 32px;
+    font-family: b nazanin;
+    font-weight: bold;
+    color: black;
+    background-color: tomato;
+    border-radius: 60px;
+}
+
+.img-all gol {
+    position: absolute;
+    top: 48px;
+    right: 450px;
+    font-size: 28px;
+    font-family: b nazanin;
+    font-weight: bold;
+    color: black;
+    background-color:tomato;
+    border-radius: 15px;
+}
+
+.g {
+    font-size: 32px;
+    color: red;
+
+}
